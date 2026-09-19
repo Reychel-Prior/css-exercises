@@ -9,12 +9,11 @@
     font-size: 36px;
 }
 
-.cooler {
+.adjust-font-size {
     font-size: 24px;
 }
 
 #second-div {
     background-color: rgb(123, 235, 108);
-    font-size: 24px;
     font-weight: bold;
 }
